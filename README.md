@@ -111,6 +111,7 @@ sc-trans/
 - **Word 域代码**（目录、交叉引用）译后需按 F9 更新。
 - 图片重绘是"同一版式语言"，不是像素级复刻。
 
-## 许可
+[## 许可
 
 未指定。使用前请与作者确认。
+](https://github.com/zhujuntongling-dotcom/sc-trans/blob/main/README.md)
